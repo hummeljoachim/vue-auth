@@ -1,5 +1,5 @@
-# Vue Base Setup
-[![Build Status](https://travis-ci.org/v2hummel/vuetest.svg?branch=master)](https://travis-ci.org/v2hummel/vuetest)
+# Vue Authentication with Token
+[![Build Status](https://travis-ci.org/v2hummel/vue-auth.svg?branch=master)](https://travis-ci.org/v2hummel/vuetest)
 [![Coverage Status](https://coveralls.io/repos/github/v2hummel/vuetest/badge.svg)](https://coveralls.io/github/v2hummel/vuetest)
 
 ### Project setup
