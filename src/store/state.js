@@ -3,7 +3,7 @@
 // State
 
 export default ({
-  global: {
-    
-  },
+  token: localStorage.getItem('token') || '',
+  status: '',
+  answer: {},
 });
