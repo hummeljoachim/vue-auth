@@ -1,6 +1,6 @@
 # Vue Authentication with Token
-[![Build Status](https://travis-ci.org/v2hummel/vue-auth.svg?branch=master)](https://travis-ci.org/v2hummel/vuetest)
-[![Coverage Status](https://coveralls.io/repos/github/v2hummel/vuetest/badge.svg)](https://coveralls.io/github/v2hummel/vuetest)
+[![Build Status](https://travis-ci.org/hummeljoachim/vue-auth.svg?branch=master)](https://travis-ci.org/hummeljoachim/vue-auth)
+[![Coverage Status](https://coveralls.io/repos/github/hummeljoachim/vue-auth/badge.svg?branch=master)](https://coveralls.io/github/hummeljoachim/vue-auth?branch=master)
 
 ### Project setup
 ```
